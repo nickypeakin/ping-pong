@@ -2,7 +2,7 @@
 
 A table tennis game you play in the browser against a computer opponent. It is one file, `index.html`, with no build step or dependencies.
 
-**Play it:** https://claude.ai/artifact/4r7BXN8iYKjZufsBZYwfqt
+**Play it:** https://nickypeakin.github.io/ping-pong/
 
 To run it locally, download or clone this repo and open `index.html` in any modern browser.
 
